@@ -1,8 +1,7 @@
 # NaNoGenMo2019
 The code I used for my NaNoGenMo project in 2019
 
-I generated inspired by my favorite subreddit, Writing Prompts. 
-It consisted of a series of GPT-2-generated writing prompts and GPT-2-generated responses to those writing prompts, all grouped by weekly themes.
+I generated a manuscript inspired by my favorite subreddit, Writing Prompts. The manuscript consisted of a series of GPT-2-generated writing prompts and GPT-2-generated responses to those writing prompts.
 
 OpenAI’s GPT-2 gave me access to a superpowered language model trained with a data set of 8 million webpages, all human-curated outbound links from Reddit. So much of the internet flows in and out of Reddit, it provides the scale of information needed to make a really sensible-sounding AI text generator.
 
@@ -10,7 +9,7 @@ Over at Reddit, the great u/disumbrationist trained an army of bots to create an
 
 Writing prompts seemed like the best way to work toward narrative coherence with GPT-2. 
 
-After 18 days of text generation, my two GPT-2 language models have generated a 51,422-word manuscript filled with computer generated writing prompts and computer generated responses to those prompts.
+After 17 days of text generation, my two GPT-2 language models have generated a 51,422-word manuscript filled with computer generated writing prompts and computer generated responses to those prompts.
 
 The writing prompts were written by a fined-tuned GPT-2 language model I named “Jane Doe” after a character in one of the generated texts. The writing prompt responses were written by a fine-tuned GPT-2 language model I named “Mr. Output” after a character in another one of the generated texts.
 
@@ -31,8 +30,7 @@ This step is really important for output. I wanted to give my AI the most unclut
 
 While this was a huge time consuming effort, it made my output infinitely more interesting. I trained writing Ress Prompt prompter. 
 
-I finetuned two separate GPT-2 models.  
-Thanks to Max Woolf, I learned how to fine-tune two different GPT-2 language models with Google Colab. I used the medium sized 355M version of GPT-2 because it was large enough to handle my data set but small enough that it would run on Google Colab. I trained both models with 42,000 steps each. I broke the training into 10K chunks, because Google Colab won’t run longer than 12K steps.
+I finetuned two separate GPT-2 models. I used the medium-sized 355M version of GPT-2 because it was large enough to handle my data set but small enough that it would run on Google Colab. I trained both models with 42,000 steps each. I broke the training into 10K chunks, because Google Colab won’t run longer than 12K steps.
 
 I ran the finetuned version of Writing Prompt Prompter (Jane Doe) to generate between 10 and 20 pages of writing prompts every day.
 
@@ -42,5 +40,5 @@ I repeated this processs for the first 17 days of November.  I combed through hu
 
 For every 350 words of compelling computer-generated writing that I gathered for NaNoGenMo, I had to plow through around 10,000 words of strange, confusing, repetitive, or just plain incomprehensible computer-generated text.
 
-It was worth it. NaNoGenMo was the most satisfying coding experience of my life. There have never been so many resources available to amateurs like me and GPT-2 is truly powerful when trained finetuned. 
+It was worth it. NaNoGenMo was a great writing and coding experience. There have never been so many resources available to amateurs like me and GPT-2 is truly powerful when trained finetuned. I'll be reading these GPT-2 generated stories for the rest of the year!
 
