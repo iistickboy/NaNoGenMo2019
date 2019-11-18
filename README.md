@@ -1,5 +1,5 @@
 # NaNoGenMo2019
-The code I used for my NaNoGenMo project in 2019
+This repository contains copies of the two Google Colab notebooks I used for my NaNoGenMo project.
 
 I generated a manuscript inspired by my favorite subreddit, Writing Prompts. The manuscript consisted of a series of GPT-2-generated writing prompts and GPT-2-generated responses to those writing prompts.
 
