@@ -13,8 +13,6 @@ After 17 days of text generation, my two GPT-2 language models have generated a 
 
 The writing prompts were written by a fined-tuned GPT-2 language model I named “Jane Doe” after a character in one of the generated texts. The writing prompt responses were written by a fine-tuned GPT-2 language model I named “Mr. Output” after a character in another one of the generated texts.
 
-I loved every minute of this coding and reading experience. If you enjoy these stories, email me your address at jasonboog@gmail.com and I’ll snail mail you a handwritten copy of one of these stories in zine format.
-
 MY STEPS
 
 I created a dataset of writing prompts.
